@@ -14,4 +14,4 @@ The data used in this program was from the following Kaggle dataset: [https://ww
 This model has about a 87.6% accuracy of predicting the reliability of news sources using their headlines.
 
 ### Credits
-Credit to [https://github.com/madhusivaraj](Madhu Sivaraj) for the inspiration and fundamental code behind this program!
+Credit to [https://github.com/madhusivaraj](Madhu Sivaraj) for the inspiration and base code behind this program!
