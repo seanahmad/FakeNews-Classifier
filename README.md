@@ -5,6 +5,7 @@
 <ul>
   <li>Use pip to install any packages that are not on your machine</li>
   <li>Run fake_news.py on any IDE or text-editor!</li>
+</ul>
 
 ### Data: 
 The data used in this program was from the following Kaggle dataset: [https://www.kaggle.com/c/fake-news/data](https://www.kaggle.com/c/fakenews/data)
